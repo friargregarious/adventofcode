@@ -4,7 +4,7 @@ max_cals = 0
 cal_totals = []  # for part 2
 
 # body of work
-for item in open("Day_01_Input.txt", "r").readlines():
+for item in open("Input.txt", "r").readlines():
 
     if (item == "\n") or (not item):  ### blank line between elves
         ##### This section is for part 2
