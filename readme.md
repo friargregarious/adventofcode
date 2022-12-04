@@ -3,7 +3,8 @@
 ## 2022
 https://adventofcode.com/2022
 
-View [Belleville Leader Board](https://adventofcode.com/2022/leaderboard/private/view/2588518) or [join](https://adventofcode.com/2022/leaderboard/private) with the following code: 2588518-7b7533cd
+View [Belleville Leader Board](https://adventofcode.com/2022/leaderboard/private/view/2588518) or [join](https://adventofcode.com/2022/leaderboard/private) pls request a code to join.
+
 
 
 
