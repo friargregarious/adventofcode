@@ -1,11 +1,12 @@
 # Advent of Code
 
-## 2015
+## [2015 adventofcode.com/2015](https://adventofcode.com/2015)
 
     - 2015 Day  1 [**] Day 1: Not Quite Lisp
     - 2015 Day  2 [**] Day 2: I Was Told There Would Be No Math (silly coder, of course there's math!)
+    - 2015 Day  3 [**] Perfectly Spherical Houses in a Vacuum
 
-## [2022](https://adventofcode.com/2022)
+## [2022 adventofcode.com/2022](https://adventofcode.com/2022)
 
 View [Belleville Leader Board](https://adventofcode.com/2022/leaderboard/private/view/2588518) or [join](https://adventofcode.com/2022/leaderboard/private) pls request a code [from me](mailto:greg.denyes@gmail.com) to join.
 
@@ -38,12 +39,12 @@ This should be really cool, if I can figure out the OAuth1 portion of the projec
 get_new_day.py works... kinda
 It will build a folder and working files from template using the given args from command line.
 
-run it as 
+run it as
   >python get_new_day.py
 
 it will print to screen the usage documentation without making any changes
 **WARNING!!!**
-double check your args when executing!!! 
+double check your args when executing!!!
 This prog will overwrite any files with the names:
 
   "description.md"
