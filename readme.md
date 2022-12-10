@@ -5,6 +5,7 @@
     - 2015 Day  1 [**] Day 1: Not Quite Lisp
     - 2015 Day  2 [**] Day 2: I Was Told There Would Be No Math (silly coder, of course there's math!)
     - 2015 Day  3 [**] Perfectly Spherical Houses in a Vacuum
+    - 2015 Day  4 [**] The Ideal Stocking Stuffer (BLOCK CHAIN HASHING!!!! YEAH!!!!)
 
 ## [2022 adventofcode.com/2022](https://adventofcode.com/2022)
 
