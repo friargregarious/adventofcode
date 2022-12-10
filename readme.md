@@ -4,9 +4,7 @@
 
 Still working on my script to populate the day folders with instructions and inputs.
 
-## 2022
-
-https://adventofcode.com/2022
+## [2022](https://adventofcode.com/2022)
 
 View [Belleville Leader Board](https://adventofcode.com/2022/leaderboard/private/view/2588518) or [join](https://adventofcode.com/2022/leaderboard/private) pls request a code [from me](mailto:greg.denyes@gmail.com) to join.
 
