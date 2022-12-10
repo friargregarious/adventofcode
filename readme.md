@@ -12,12 +12,16 @@ View [Belleville Leader Board](https://adventofcode.com/2022/leaderboard/private
 
 Python Codes
 
-- Day 1 - Calorie Counter
-- Day 2 - Rock, Paper, Scissors
-- Day 3 - Find the Common Item
-- Day 4 - Camp Cleanup
-- Day 5 - Supply Stacks
-- Day 6 - Tuning Trouble (Signal Processing)
+- Day  1 [**] - Calorie Counter
+- Day  2 [**] - Rock, Paper, Scissors
+- Day  3 [**] - Find the Common Item
+- Day  4 [**] - Camp Cleanup
+- Day  5 [**] - Supply Stacks
+- Day  6 [**] - Tuning Trouble
+- Day  7 [  ] - No Space Left On Device
+- Day  8 [**] - Treetop Tree House
+- Day  9 [* ] - Rope Bridge
+- Day 10 [**] - Cathode-Ray Tube
 
 ## Personal Project
 
