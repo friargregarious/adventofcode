@@ -7,6 +7,7 @@
     - 2015 Day  3 [**] Perfectly Spherical Houses in a Vacuum
     - 2015 Day  4 [**] The Ideal Stocking Stuffer (BLOCK CHAIN HASHING!!!! YEAH!!!!)
     - 2015 Day  5 [**] Doesn't He Have Intern-Elves For This?
+    - 2015 Day  6 [**] Probably a Fire Hazard
 
 ## [2022 adventofcode.com/2022](https://adventofcode.com/2022)
 
