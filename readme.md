@@ -21,6 +21,7 @@ View [Belleville Leader Board](https://adventofcode.com/2022/leaderboard/private
 ### [adventofcode.com/2016](https://adventofcode.com/2016)
 
     - 2016 Day  1 [**] No Time for a Taxicab
+    - 2016 Day  2 [**] Bathroom Security
 
 ### [adventofcode.com/2015](https://adventofcode.com/2015)
 
