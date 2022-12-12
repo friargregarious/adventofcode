@@ -26,9 +26,9 @@ View [Belleville Leader Board](https://adventofcode.com/2022/leaderboard/private
 ### [adventofcode.com/2015](https://adventofcode.com/2015)
 
 - 2015 Day 01 [**] Not Quite Lisp
-- 2015 Day 02 [**] I Was Told There Would Be No Math [1](1)
+- 2015 Day 02 [**] I Was Told There Would Be No Math [1](#1)
 - 2015 Day 03 [**] Perfectly Spherical Houses in a Vacuum
-- 2015 Day 04 [**] The Ideal Stocking Stuffer [2](2)
+- 2015 Day 04 [**] The Ideal Stocking Stuffer [2](#2)
 - 2015 Day 05 [**] Doesn't He Have Intern-Elves For This?
 - 2015 Day 06 [**] Probably a Fire Hazard
 
