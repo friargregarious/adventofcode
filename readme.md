@@ -10,11 +10,11 @@ View [Belleville Leader Board](https://adventofcode.com/2022/leaderboard/private
 - 2022 Day  4 [**] Camp Cleanup
 - 2022 Day  5 [**] Supply Stacks
 - 2022 Day  6 [**] Tuning Trouble
-- 2022 Day  7 [  ] No Space Left On Device
+- 2022 Day  7 [__] No Space Left On Device
 - 2022 Day  8 [**] Treetop Tree House
-- 2022 Day  9 [* ] Rope Bridge
+- 2022 Day  9 [*_] Rope Bridge
 - 2022 Day 10 [**] Cathode-Ray Tube
-- 2022 Day 11 [* ] Monkey in the Middle
+- 2022 Day 11 [*_] Monkey in the Middle
 
 ## Previous Year's Progress
 
