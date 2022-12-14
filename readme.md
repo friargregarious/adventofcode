@@ -15,7 +15,12 @@ View [Belleville Leader Board](https://adventofcode.com/2022/leaderboard/private
 - 2022 Day 09 {*_} Rope Bridge
 - 2022 Day 10 {**} Cathode-Ray Tube
 - 2022 Day 11 {*_} Monkey in the Middle
-- 2022 Day 12 {__} Hill Climbing Algorithm
+- 2022 Day 12 {__} Hill Climbing Algorithm [3](#3)
+- 2022 Day 13 {__} Distress Signal
+- 2022 Day 14 {__} Regolith Reservoir
+
+[3]: my attempt at genetic algorithym.
+
 
 ## Previous Year's Progress
 
@@ -33,7 +38,7 @@ View [Belleville Leader Board](https://adventofcode.com/2022/leaderboard/private
 - 2015 Day 04 {**} The Ideal Stocking Stuffer [2](#2)
 - 2015 Day 05 {**} Doesn't He Have Intern-Elves For This?
 - 2015 Day 06 {**} Probably a Fire Hazard
-- 2015 Day 07 {__}
+- 2015 Day 07 {__} Some Assembly Required
 
 [1]: *silly coder, of course there's math!*
 
