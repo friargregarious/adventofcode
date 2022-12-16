@@ -18,9 +18,10 @@ View [Belleville Leader Board](https://adventofcode.com/2022/leaderboard/private
 - 2022 Day 12 {__} Hill Climbing Algorithm [3](#3)
 - 2022 Day 13 {__} Distress Signal
 - 2022 Day 14 {__} Regolith Reservoir
+- 2022 Day 15 {__} Beacon Exclusion Zone
+- 2022 Day 16 {__} Proboscidea Volcanium
 
 [3]: my attempt at genetic algorithym.
-
 
 ## Previous Year's Progress
 
