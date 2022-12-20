@@ -29,8 +29,8 @@ So, consider the sensor at 2,18; the closest beacon to it is at -2,15. For the s
 
 Drawing sensors as S and beacons as B, the above arrangement of sensors and beacons looks like this:
 
-                1    1    2    2
-      0    5    0    5    0    5
+                   1    1    2    2
+         0    5    0    5    0    5
      0 ....S.......................
      1 ......................S.....
      2 ...............S............
@@ -57,8 +57,8 @@ Drawing sensors as S and beacons as B, the above arrangement of sensors and beac
 
 This isn't necessarily a comprehensive map of all beacons in the area, though. Because each sensor only identifies its closest beacon, if a sensor detects a beacon, you know there are no other beacons that close or closer to that sensor. There could still be beacons that just happen to not be the closest beacon to any sensor. Consider the sensor at 8,7:
 
-                1    1    2    2
-      0    5    0    5    0    5
+                   1    1    2    2
+         0    5    0    5    0    5
     -2 ..........#.................
     -1 .........###................
      0 ....S...#####...............

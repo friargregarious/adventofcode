@@ -20,8 +20,14 @@ View [Belleville Leader Board](https://adventofcode.com/2022/leaderboard/private
 - 2022 Day 14 {__} Regolith Reservoir
 - 2022 Day 15 {__} Beacon Exclusion Zone
 - 2022 Day 16 {__} Proboscidea Volcanium
+- 2022 Day 17 {__} Pyroclastic Flow [4](#4)
+- 2022 Day 18 {__} Boiling Boulders
+- 2022 Day 19 {__} Not Enough Minerals
+- 2022 Day 20 {__} Grove Positioning System
 
 [3]: my attempt at genetic algorithym.
+
+[4]: this one looks like tetris
 
 ## Previous Year's Progress
 
@@ -63,15 +69,17 @@ This should be really cool, if I can figure out the OAuth1 portion of the projec
 get_new_day.py works... kinda
 It will build a folder and working files from template using the given args from command line.
 
-run it as
-  >python get_new_day.py
+`
+run it as:
+/python get_new_day.py
+`
 
 it will print to screen the usage documentation without making any changes
 **WARNING!!!**
 double check your args when executing!!!
 This prog will overwrite any files with the names:
 
-  "description.md"
-  "input.txt"
-  "sample.txt"
-  f"day_{day_str}.py"
+     "description.md"
+     "input.txt"
+     "sample.txt"
+     f"day_{day_str}.py"
