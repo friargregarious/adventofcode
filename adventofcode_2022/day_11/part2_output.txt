@@ -1,0 +1,78 @@
+
+After round 1
+Monkey 0 inspected items 2 times.
+Monkey 1 inspected items 4 times.
+Monkey 2 inspected items 5 times.
+Monkey 3 inspected items 5 times.
+
+After round 20
+Monkey 0 inspected items 104 times.
+Monkey 1 inspected items 92 times.
+Monkey 2 inspected items 26 times.
+Monkey 3 inspected items 88 times.
+
+After round 50
+Monkey 0 inspected items 272 times.
+Monkey 1 inspected items 224 times.
+Monkey 2 inspected items 62 times.
+Monkey 3 inspected items 220 times.
+
+After round 75
+Monkey 0 inspected items 412 times.
+Monkey 1 inspected items 334 times.
+Monkey 2 inspected items 92 times.
+Monkey 3 inspected items 330 times.
+
+After round 100
+Monkey 0 inspected items 552 times.
+Monkey 1 inspected items 444 times.
+Monkey 2 inspected items 122 times.
+Monkey 3 inspected items 440 times.
+
+After round 200
+Monkey 0 inspected items 1112 times.
+Monkey 1 inspected items 884 times.
+Monkey 2 inspected items 242 times.
+Monkey 3 inspected items 880 times.
+
+After round 500
+Monkey 0 inspected items 2792 times.
+Monkey 1 inspected items 2204 times.
+Monkey 2 inspected items 602 times.
+Monkey 3 inspected items 2200 times.
+
+After round 750
+Monkey 0 inspected items 4192 times.
+Monkey 1 inspected items 3304 times.
+Monkey 2 inspected items 902 times.
+Monkey 3 inspected items 3300 times.
+
+After round 1000
+Monkey 0 inspected items 5592 times.
+Monkey 1 inspected items 4404 times.
+Monkey 2 inspected items 1202 times.
+Monkey 3 inspected items 4400 times.
+
+After round 2000
+Monkey 0 inspected items 11192 times.
+Monkey 1 inspected items 8804 times.
+Monkey 2 inspected items 2402 times.
+Monkey 3 inspected items 8800 times.
+
+After round 3000
+Monkey 0 inspected items 16792 times.
+Monkey 1 inspected items 13204 times.
+Monkey 2 inspected items 3602 times.
+Monkey 3 inspected items 13200 times.
+
+After round 4000
+Monkey 0 inspected items 22392 times.
+Monkey 1 inspected items 17604 times.
+Monkey 2 inspected items 4802 times.
+Monkey 3 inspected items 17600 times.
+
+After round 5000
+Monkey 0 inspected items 27992 times.
+Monkey 1 inspected items 22004 times.
+Monkey 2 inspected items 6002 times.
+Monkey 3 inspected items 22000 times.
